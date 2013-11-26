@@ -2,3 +2,6 @@ pestaña 1
 
 
 Ahora si funciona!!!
+
+
+pestaña 2
